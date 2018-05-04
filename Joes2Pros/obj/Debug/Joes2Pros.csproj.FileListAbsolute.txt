@@ -1,0 +1,7 @@
+H:\Projects\PracticeApps\Joes2ProsLabs\Joes2Pros\Joes2Pros\bin\Debug\Joes2Pros.exe.config
+H:\Projects\PracticeApps\Joes2ProsLabs\Joes2Pros\Joes2Pros\bin\Debug\Joes2Pros.exe
+H:\Projects\PracticeApps\Joes2ProsLabs\Joes2Pros\Joes2Pros\bin\Debug\Joes2Pros.pdb
+H:\Projects\PracticeApps\Joes2ProsLabs\Joes2Pros\Joes2Pros\obj\Debug\Joes2Pros.csprojResolveAssemblyReference.cache
+H:\Projects\PracticeApps\Joes2ProsLabs\Joes2Pros\Joes2Pros\obj\Debug\Joes2Pros.csproj.CoreCompileInputs.cache
+H:\Projects\PracticeApps\Joes2ProsLabs\Joes2Pros\Joes2Pros\obj\Debug\Joes2Pros.exe
+H:\Projects\PracticeApps\Joes2ProsLabs\Joes2Pros\Joes2Pros\obj\Debug\Joes2Pros.pdb
